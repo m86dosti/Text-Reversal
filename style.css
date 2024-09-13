@@ -1,0 +1,19 @@
+        body{
+            padding: 10px;
+            margin: 20px;
+            background-color: #1e1e1e;
+            display: grid;
+            gap: 5px;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        input{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        p,h3{
+            color: white;
+            font-size: large;
+        }
